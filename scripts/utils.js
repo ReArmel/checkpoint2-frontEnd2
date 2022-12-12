@@ -10,5 +10,5 @@ function normalizaSenha(senha){
 }
 
 function baseUrl(){
-    return "https://todo-api.ctd.academy:3000/v1"
+    return "http://todo-api.ctd.academy:3000/v1"
 }
